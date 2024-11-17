@@ -31,7 +31,7 @@ function Project() {
           <div className="flex-1 flex justify-center sm:justify-end sm:mt-0 mt-11 sm:flex-1">
             <div className="lg:w-[46vmax] sm:w-[42vmin] w-[80vw] overflow-hidden">
               <Image
-                src="/Womenn.avif"
+                src="/Womenn (2).avif"
                 alt="girlpic"
                 layout="responsive"
                 width={670}
